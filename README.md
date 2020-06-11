@@ -13,6 +13,11 @@ CRA Twitter Sentiment Analysis
 ### Tutorial for ML Naives Bayes Classifier
 [https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed](https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed)
 
+***Resources for Future Development***
+https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/#features
+https://nlp.stanford.edu/sentiment/
+
 twitter-sentiment-training
 ==========================
 
