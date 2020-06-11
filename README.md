@@ -1,3 +1,18 @@
+CRA Twitter Sentiment Analysis
+==========================
+***Resources***
+### Authentication and Extracting Tweets
+[https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/)
+
+### Cursor Method
+[http://docs.tweepy.org/en/v3.5.0/cursor_tutorial.html](http://docs.tweepy.org/en/v3.5.0/cursor_tutorial.html)
+
+### YouTube Tutorial
+[https://www.youtube.com/watch?v=ujId4ipkBio](https://www.youtube.com/watch?v=ujId4ipkBio)[https://medium.com/better-programming/twitter-sentiment-analysis-15d8892c0082](https://medium.com/better-programming/twitter-sentiment-analysis-15d8892c0082)
+
+### Tutorial for ML Naives Bayes Classifier
+[https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed](https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed)
+
 twitter-sentiment-training
 ==========================
 
