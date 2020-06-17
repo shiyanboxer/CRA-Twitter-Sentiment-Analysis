@@ -1,6 +1,7 @@
 CRA Twitter Sentiment Analysis
 ==========================
-***Resources***
+![Results](http://url/to/img.png)
+## Resources
 ### Authentication and Extracting Tweets
 [https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/)
 
