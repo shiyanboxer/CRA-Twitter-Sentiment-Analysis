@@ -1,6 +1,31 @@
 CRA Twitter Sentiment Analysis
 ==========================
 ![Results](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis/blob/master/SAResults.png)
+## Notion Link
+https://www.notion.so/shiyanboxer/Twitter-Sentiment-Analysis-v2-ef739d444a944254a2e43da829dc45a3
+
+## Quickstart
+***Install Dependencies In Anaconda Command Prompt***
+conda install -c conda-forge textblob
+conda install -c conda-forge tweepy
+conda install -c conda-forge wordcloud
+conda install -c anaconda nltk
+pip install stop-words (in command prompt)
+
+## Tech
+- **Python** — a programming language
+- **Tweepy** — type of RESTful API specifically for Twitter
+- **Textblob** — process textual data library
+- **NLTK** — symbolic and statistical natural language processing libraries. It takes care of any processing that we need to perform on text to change its form or extract certain components from it. The class constructor removes stop words.
+- **Regular Expression** — parsing strings and modifying dataset library sequence of characters that form a search pattern
+- **Pandas** — data manipulation and analysis library
+- **NumPy** — scientific computing library
+- **Matplotlib** — plotting library
+- **JSON** — file type
+
+## The Problem
+The purpose of CRA's chatbot is to help Canadians find more information regarding CERB and CESB. Currently, CRA is using Fine-grained Sentiment Analysis - a 5 point ranking survey given to the user after they have completed their interaction to determine customer satisfaction. Although this is a simple approach, it does not provide an in-depth analysis of the customer’s experience nor does it allow real-time personalization to increase satisfaction and improve future iterations.
+
 ## Resources
 ### Authentication and Extracting Tweets
 [https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/)
