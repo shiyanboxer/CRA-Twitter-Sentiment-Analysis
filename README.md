@@ -45,14 +45,7 @@ The purpose of CRA's chatbot is to help Canadians find more information regardin
 - https://nlp.stanford.edu/sentiment/
 
 ## twitter-sentiment-training
-==========================
-
-Training set of 5513 hand-classified tweets for sentiment classifiers
-
-----
-
-This is an upgrade to the original script by Niek J. Sanders available [here] (http://www.sananalytics.com/lab/twitter-sentiment/). 
-Twitter's [REST API v1.1] (https://dev.twitter.com/docs/api/1.1) has made it mandatory for all requests to be authenticated using [oauth](https://dev.twitter.com/docs/auth/oauth#v1-1) and hence the script required to incorporate the authentication capability.
+Training set of 5513 hand-classified tweets for sentiment classifiers.  This is an upgrade to the original script by Niek J. Sanders available [here] (http://www.sananalytics.com/lab/twitter-sentiment/). Twitter's [REST API v1.1] (https://dev.twitter.com/docs/api/1.1) has made it mandatory for all requests to be authenticated using [oauth](https://dev.twitter.com/docs/auth/oauth#v1-1) and hence the script required to incorporate the authentication capability.
 
 Consequently, you must get an access token, access key, consumer token, consumer key by registering your application with twitter, in order to make such authenticated requests. Refer to [this](https://dev.twitter.com/docs/auth/tokens-devtwittercom) guide for getting these tokens, and provide them as global variables in the `install.py` script.
 
