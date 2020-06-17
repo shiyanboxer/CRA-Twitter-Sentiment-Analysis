@@ -6,11 +6,11 @@ https://www.notion.so/shiyanboxer/Twitter-Sentiment-Analysis-v2-ef739d444a944254
 
 ## Quickstart
 ***Install Dependencies In Anaconda Command Prompt***
-conda install -c conda-forge textblob
-conda install -c conda-forge tweepy
-conda install -c conda-forge wordcloud
-conda install -c anaconda nltk
-pip install stop-words (in command prompt)
+- conda install -c conda-forge textblob
+- conda install -c conda-forge tweepy
+- conda install -c conda-forge wordcloud
+- conda install -c anaconda nltk
+- pip install stop-words (in command prompt)
 
 ## Tech
 - **Python** — a programming language
