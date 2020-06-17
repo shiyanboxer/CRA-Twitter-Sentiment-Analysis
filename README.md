@@ -44,7 +44,7 @@ The purpose of CRA's chatbot is to help Canadians find more information regardin
 - https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/#features
 - https://nlp.stanford.edu/sentiment/
 
-twitter-sentiment-training
+## twitter-sentiment-training
 ==========================
 
 Training set of 5513 hand-classified tweets for sentiment classifiers
