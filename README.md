@@ -24,8 +24,19 @@ CRA Twitter Sentiment Analysis
 - **Matplotlib** — plotting library
 - **JSON** — file type
 
-## The Problem
+### The Problem
 The purpose of CRA's chatbot is to help Canadians find more information regarding CERB and CESB. Currently, CRA is using Fine-grained Sentiment Analysis - a 5 point ranking survey given to the user after they have completed their interaction to determine customer satisfaction. Although this is a simple approach, it does not provide an in-depth analysis of the customer’s experience nor does it allow real-time personalization to increase satisfaction and improve future iterations.
+
+### Proposal 
+I propose developing a sentiment analysis porotype. I will analyze the sentiment of tweets using Twitter’s API. I believe this is a good starting point due to the board range of resources, documentation, availability of data through Twitter's API, and my familiarity working with Twitter’s API. The model will rely on the Naives Bayes classifier and will provide a similar framework for processing text as a chatbot sentiment analysis model.
+
+### Objectives
+The objective of sentiment analysis model is to:
+1. Accurately determine customer’s satisfaction with CRA’s chatbot
+2. Generate better insights than existing method
+3. Use results to optimise user experience
+4. Classify text based on consistent criteria
+5. Respond in real-time to users sentiment (unsure)
 
 ## Resources
 ### Authentication and Extracting Tweets
