@@ -25,7 +25,7 @@ CRA Twitter Sentiment Analysis
 - **JSON** — file type
 
 ## About the Project
-### The Problem
+### Problem
 The purpose of CRA's chatbot is to help Canadians find more information regarding CERB and CESB. Currently, CRA is using Fine-grained Sentiment Analysis - a 5 point ranking survey given to the user after they have completed their interaction to determine customer satisfaction. Although this is a simple approach, it does not provide an in-depth analysis of the customer’s experience nor does it allow real-time personalization to increase satisfaction and improve future iterations.
 
 ### Proposal 
