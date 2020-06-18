@@ -4,7 +4,7 @@ CRA Twitter Sentiment Analysis
 ![Graph](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis/blob/master/Graph.png)
 ![Results](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis/blob/master/SAResults.png)
 ## Notion Link
-https://www.notion.so/shiyanboxer/Twitter-Sentiment-Analysis-v2-ef739d444a944254a2e43da829dc45a3
+- [Link](https://www.notion.so/shiyanboxer/Twitter-Sentiment-Analysis-v2-ef739d444a944254a2e43da829dc45a3)
 
 ## Quickstart
 ***Install Dependencies In Anaconda Command Prompt***
