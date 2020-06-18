@@ -29,7 +29,7 @@ CRA Twitter Sentiment Analysis
 The purpose of CRA's chatbot is to help Canadians find more information regarding CERB and CESB. Currently, CRA is using Fine-grained Sentiment Analysis - a 5 point ranking survey given to the user after they have completed their interaction to determine customer satisfaction. Although this is a simple approach, it does not provide an in-depth analysis of the customer’s experience nor does it allow real-time personalization to increase satisfaction and improve future iterations.
 
 ### Proposal 
-I propose developing a sentiment analysis porotype. I will analyze the sentiment of tweets using Twitter’s API. I believe this is a good starting point due to the board range of resources, documentation, availability of data through Twitter's API, and my familiarity working with Twitter’s API. The model will rely on the Naives Bayes classifier and will provide a similar framework for processing text as a chatbot sentiment analysis model.
+I propose developing a sentiment analysis porotype. I will analyze the sentiment of 100 tweets containing the hashtag "CRA" using Twitter’s API. I believe this is a good starting point due to the board range of resources, documentation, availability of data through Twitter's API, and my familiarity working with Twitter’s API. The model will rely on the Naives Bayes classifier and will provide a similar framework for processing text as a chatbot sentiment analysis model.
 
 ### Objectives
 The objective of sentiment analysis model is to:
@@ -38,6 +38,18 @@ The objective of sentiment analysis model is to:
 3. Use results to optimise user experience
 4. Classify text based on consistent criteria
 5. Respond in real-time to users sentiment (unsure)
+
+### Steps
+1. Install libraries in Anaconda / Command Line
+2. Import Libraries
+3. Authentication Credentials and Python Script
+4. Define Constants
+5. Build test set
+6. Build training set
+7. Preprocess tweets
+8. Naive Bayes Classifier
+9. Testing the model
+9. Plot results
 
 ## Resources
 ### Authentication and Extracting Tweets
