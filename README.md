@@ -17,7 +17,6 @@ https://www.notion.so/shiyanboxer/Twitter-Sentiment-Analysis-v2-ef739d444a944254
 ## Tech
 - **Python** — a programming language
 - **Tweepy** — type of RESTful API specifically for Twitter
-- **Textblob** — process textual data library
 - **NLTK** — symbolic and statistical natural language processing libraries. It takes care of any processing that we need to perform on text to change its form or extract certain components from it. The class constructor removes stop words.
 - **Regular Expression** — parsing strings and modifying dataset library sequence of characters that form a search pattern
 - **Pandas** — data manipulation and analysis library
