@@ -8,7 +8,8 @@ CRA Twitter Sentiment Analysis
 ![Accuracy](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis/blob/master/Accuracy.png)
 
 - **MAPE** 
-Absolute percentage error (MAPE) of 10.21
+
+Absolute percentage error of 10.21
 
 - [Read more here](https://www.researchgate.net/publication/326300968_Applying_Machine_Learning_and_Natural_Language_Processing_Techniques_to_Twitter_Sentiment_Classification_for_Turkish_and_English)
 ## Notion Link
