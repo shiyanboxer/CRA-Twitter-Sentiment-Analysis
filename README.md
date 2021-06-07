@@ -1,4 +1,4 @@
-CRA Twitter Sentiment Analysis
+Twitter Sentiment Analysis
 ==========================
 ### Results
 ![Graph](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis/blob/master/Graph.png)
